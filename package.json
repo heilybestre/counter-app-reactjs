@@ -1,0 +1,27 @@
+{
+  "name": "counter-app-reactjs",
+  "version": "1.0.0",
+  "description": "Counter App using React JS",
+  "scripts": {
+    "start": "concurrently \"node ./bin/www\" \"cd client && npm start\""
+  },
+  "keywords": [
+    "counter app",
+    "react js",
+    "javascript"
+  ],
+  "author": "Mihaela Mamenta",
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "lodash": "^2.4.1",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.0"
+  }
+}
