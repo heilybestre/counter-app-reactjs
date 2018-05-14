@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Counter App using React JS",
   "scripts": {
-    "start": "concurrently \"node ./bin/www\" \"cd client && npm start\""
+    "start": "concurrently \"node ./bin/www\" \"cd client && npm start\"",
+    "build": "cd client/ && npm install && cd .."
   },
   "keywords": [
     "counter app",

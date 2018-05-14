@@ -13,10 +13,8 @@ This is a simple counter application that can do the following:
 
 ```
 $ npm install
-$ cd client/
-$ npm install
-$ cd ..
-$ npm start
+$ npm run build
+$ npm run start
 ```
 
 [http://localhost:3000](http://localhost:3000)
