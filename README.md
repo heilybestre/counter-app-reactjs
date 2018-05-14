@@ -1,6 +1,6 @@
 # Counter App using React JS
 
-This is simple counter application that can do the following:
+This is a simple counter application that can do the following:
 * Add a named counter to a list of counters
 * Increment any of the counters
 * Decrement any of the counters
@@ -19,4 +19,4 @@ $ cd ..
 $ npm start
 ```
 
-localhost:3000
+[http://localhost:3000](http://localhost:3000)
